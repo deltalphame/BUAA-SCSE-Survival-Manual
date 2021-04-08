@@ -4,6 +4,9 @@ description: 你航贵系学生生存手册，由计院学生自发维护，目�
 
 # 欢迎来到 BUAA-SCSE
 
+项目已经迁移到：https://github.com/BUAA-SCSE-Survival-Manual
+欢迎提交MR :)
+
 ### gitbook-link: [https://butub.gitbook.io/buaa-scse-survival-manual/](https://butub.gitbook.io/buaa-scse-survival-manual/)
 
 ### [构建初衷](gou-jian-chu-zhong.md)
